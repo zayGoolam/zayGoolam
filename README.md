@@ -20,7 +20,7 @@ I enjoy learning by creating real-world projects and improving my programming an
 ### 🎓 Individual Projects
 - **BookSmart (ASP.NET, SQL Server)**  
   A complete online bookstore system with user login, shopping cart, and admin management.  
-  [View on GitHub](https://github.com/yourusername/BookSmart)
+  [View on GitHub](https://github.com/zayGoolam/BookSmart)
 
 - **Pet Shop Database (Oracle SQL)**  
   Designed a relational database with master-detail forms, triggers, and data validation.  
