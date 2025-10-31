@@ -24,7 +24,7 @@ I enjoy learning by creating real-world projects and improving my programming an
 
 - **Pet Shop Database (Oracle SQL)**  
   Designed a relational database with master-detail forms, triggers, and data validation.  
-  [View SQL Scripts](https://github.com/zayGoolam/Pet-shop)
+  [View on GitHub](https://github.com/zayGoolam/Pet-shop)
 
 ---
 
